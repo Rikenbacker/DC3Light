@@ -23,7 +23,8 @@ http://ledjournal.info/spravochnik/raschet-rezistora-dlya-svetodioda.html
 	Или модуль WTV020 но это гавно полное, с очень узким набором проигрываемых форматов и вообще.
 	Два Arduino Nano, и SD. На каждой по TMRpcm, есть мнение что так будет дешевле. SD припаевается просто без шилдов https://geektimes.ru/post/255648/, но шилды я всё равно уже заказал.
 
-8. 
+8. Спроектировать механизм можно тут
+http://www.euler.ru
 
 9. Модуль HC-05
 http://mkprog.ru/avr/bluetooth-modul-hc-05-dlya-avr.html
