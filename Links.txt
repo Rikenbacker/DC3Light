@@ -1,0 +1,2 @@
+1. Подробная инфа по контроллерам. По протоколам, прошивке и прочему
+http://narodstream.ru/programmirovanie-mk-avr/
